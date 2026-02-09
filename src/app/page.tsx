@@ -2,6 +2,9 @@
 
 import FeaturedCourses from "../components/FeaturedCourses";
 import HeroSection from "../components/HeroSection";
+import Instructors from "../components/Instructors";
+import MusicTestimonialCards from "../components/TestimonialCards";
+import UpcomingWebinars from "../components/UpcomingWebinars";
 import WhyChooseUs from "../components/WhyChooseUs";
 
  
@@ -12,6 +15,9 @@ import WhyChooseUs from "../components/WhyChooseUs";
          <HeroSection />
          <FeaturedCourses />
          <WhyChooseUs />
+         <MusicTestimonialCards />
+         <UpcomingWebinars />
+         <Instructors />
        </main>
      </div>
    );
