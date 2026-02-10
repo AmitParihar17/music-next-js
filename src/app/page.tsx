@@ -1,6 +1,7 @@
 "use client"
 
 import FeaturedCourses from "../components/FeaturedCourses";
+import Footer from "../components/Footer";
 import HeroSection from "../components/HeroSection";
 import Instructors from "../components/Instructors";
 import MusicTestimonialCards from "../components/TestimonialCards";
@@ -18,6 +19,7 @@ import WhyChooseUs from "../components/WhyChooseUs";
          <MusicTestimonialCards />
          <UpcomingWebinars />
          <Instructors />
+         <Footer />
        </main>
      </div>
    );
